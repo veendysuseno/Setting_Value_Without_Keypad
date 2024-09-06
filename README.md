@@ -55,4 +55,3 @@ This project demonstrates how to set a value using an analog input without the n
 ## License
 
 This project is open-source and can be modified or distributed freely.
-
